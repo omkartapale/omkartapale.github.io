@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name=”viewport” content=”width=device-width, initial-scale=1;”>
+
+<!-- Analytics tags -->
+<meta name="alexaVerifyID" content="ukt4U1tp9dHwyeGyGuimvkLPkxc"/>
+<meta name="google-site-verification" content="TTEOXvadwDWXdNHDbRyVNUyHEmSezs9AIVJri_UDlZE" />
+<meta name="yandex-verification" content="54885354b72a415b" />
+<!-- Analytics tags end -->
+
+<title>Welcome to Mindware's Manor by Omkar Tapale</title>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Grand+Hotel' rel='stylesheet' type='text/css'>
+<style>
+html, body{
+	padding:0;
+	margin:0;	
+}
+body{
+	/*background-color:#CECEBF;
+	background:#fff url('media/body-bg.png');*/
+	background: url('media/bg.jpg') no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	text-align:center;
+	color:#FFF;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#profilepicout{
+	height:300px;
+	width:300px;
+	-webkit-border-radius: 300px;
+	-moz-border-radius: 300px;
+	border-radius: 300px;
+	background-color:#EEEEEE;
+	margin:0 auto;
+}
+#profilepic{
+	margin:15px;
+	height:270px;
+	width:270px;
+	background: url('http://www.gravatar.com/avatar/53766783dc6bf712a95f4951fad3b9b3?s=270') no-repeat;
+	-webkit-border-radius: 270px;
+	-moz-border-radius: 270px;
+	border-radius: 270px;
+	display: inline-block;
+}
+a img{
+	border:0;
+}
+h1 {
+	font-family: 'Grand Hotel', cursive;
+	font-weight:300;
+	font-size:28px;
+	background-color:rgba(102,102,102,0.5);
+	color:#FFF;
+	margin:0 0 30px 0;
+	padding:10px;
+}
+h2 {
+	font-family: 'Grand Hotel', cursive;
+	font-size:45px;
+	margin:0 auto;
+	margin-top:-50px;
+	padding:35px 11px 10px;
+	color:#01527D;
+	text-align:center;
+	font-weight:300;
+	background-color:#EEEEEE;
+	width:200px;
+	-webkit-border-bottom-right-radius: 20px;
+	-webkit-border-bottom-left-radius: 20px;
+	-moz-border-radius-bottomright: 20px;
+	-moz-border-radius-bottomleft: 20px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+section p{
+	background-color:rgba(102,102,102,0.5);
+	margin:30px auto;
+	padding:7px;
+	width:350px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+@media (max-width: 360px) {
+section p{
+	width:280px;
+}
+}
+aside{
+	margin:25px auto;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  color: #ffffff;
+  font-size: 12px;
+  text-transform:uppercase;
+  padding: 7px 14px 7px 14px;
+  text-decoration: none;
+  display:inline-block;
+  margin:5px 2px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+</style>
+</head>
+<body>
+<section>
+    <h1>Welcome to Mindware's Manor</h1>
+    <div id="profilepicout">
+	    <div id="profilepic">&nbsp;</div>
+    </div>
+    <h2>omkartapale</h2>
+    <p>Web &amp; Graphics Designer, Freelance Developer, Internet Marketing, Network and Cyber Security</p>
+</section>
+
+<aside>
+    <a href="tel:+919890662354" title="Call Omkar Tapale(Mindware)" class="btn">CALL</a>
+    <a href="sms:+919890662354" title="SMS Omkar Tapale(Mindware)" class="btn">SMS</a>
+    <a href="mailto:omkar_tapale@live.com" title="Email Omkar Tapale(Mindware)" class="btn">Mail</a>
+    <a href="contact.php" title="Get vCard" class="btn">Get vCard</a>
+    <!--<a href="webcal://example.com/mindware.ics" onclick="return false;" title="" class="btn">Calendar</a>-->
+    <a href="http://blog.omkartapale.in" title="Visit Mindware's Blog" class="btn">Visit Blog</a>
+</aside>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.js"></script>
+<script type="text/javascript">  
+//var colors = Array('violet', 'indigo', 'blue', 'green', 'yellow', 'orange', 'red'); 
+//var colors = Array('indigo', 'blue', 'green', 'yellow', 'orange', 'red'); 
+var colors = Array('blue', 'cyan', 'green', 'yellow', 'red', 'magenta'); 
+//var colors = Array('#0154a4', '#6b439b', '#a64499', '#e44097', '#ed1b24', '#f37020', '#f78f1e', '#ffc20f', '#fef200', '#8dfc07','#00a88f','#0092ce'); 
+
+var color_index = 0;
+var interval = 2500;
+
+function bg_color_tween(target) {
+	$(target).animate({ backgroundColor: colors[color_index] }, interval, 'linear', function() {
+		if(color_index == colors.length) { color_index = 0; }
+		else { color_index++; }
+		
+		bg_color_tween(target);
+	});
+}
+
+$(document).ready(function() {
+	bg_color_tween('#profilepicout');
+}); 
+</script>
+</body>
+</html> 
