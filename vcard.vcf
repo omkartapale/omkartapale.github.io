@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Omkar Tapale
+N:Tapale;Omkar;;;
+EMAIL;TYPE=INTERNET:omkar_tapale@live.com
+X-SKYPE:omkartapale
+TEL;TYPE=CELL:7040256834
+ADR;TYPE=HOME:;;#588\, Sali Ali\, Ozarde;Wai;Maharashtra;412803;India
+item1.URL:http\://omkartapale.github.io
+item1.X-ABLabel:_$!<HomePage>!$_
+item2.URL:https\://plus.google.com/+OmkarTapale
+item2.X-ABLabel:PROFILE
+item3.URL:http\://twitter.com/omkartapale
+item3.X-ABLabel:Twitter
+SOURCE:https://omkartapale.github.io/vcard.vcf
+END:VCARD
